@@ -7,5 +7,6 @@ public class Application {
 		System.out.println("Test");
 		System.out.println("Algorithm");
 		
+		
 	}
 }
